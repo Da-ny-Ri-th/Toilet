@@ -1,0 +1,48 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Public Toilet
+
+## Skin
+
+### Button
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9_mobile.label = CONTACT US
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E.label = FLOOR PLAN
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E_mobile.label = FLOOR PLAN
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9299999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.93vw;"><B>Public Toilet</B></SPAN></SPAN></DIV></div>
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9299999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.93vw;"><B>Public Toilet</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.6900000000000004vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003366;font-size:1.69vw;"><B><I>Core Service</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+map_98550360_8A21_57EC_41DA_DFA17C291EC7.label = Floor Plan 3D
+panorama_802004A0_8A1A_0DDE_41CD_39D980509897.label = Entrance (2)
+panorama_8058F3B3_8A1A_0B22_41DA_E4E574EC2D66.label = Male Toilet Zone
+panorama_805965AB_8A1A_0F22_41D9_3C562F964BBC.label = Male Toilet Zone
+panorama_805A3E4C_8A1A_1D67_41DE_CEF1D835985B.label = Female Toilet Zone
+panorama_805A73F7_8A1A_0B21_41DA_355B7BF0FDF5.label = Female Toilet
+panorama_805A9CD6_8A1A_7D62_41D8_A879A30DCA75.label = Female Toilet Zone
+panorama_805D95EC_8A1A_0F26_41BB_1D58742B3B08.label = Male Toilet
+panorama_805E81B4_8A1A_0726_41BF_D74A0113F3F7.label = Male Toilet Zone
+panorama_805FA71C_8A1A_0CE0_41D4_0BB9F3887971.label = Female Toilet Zone
+panorama_805FE521_8A1A_0CDE_41B4_D12F5F7A735B.label = Female Toilet Zone
+panorama_8148C872_8A1A_0523_41DF_8658E34FCA66.label = Entrance
+
+## Action
+
+### URL
+LinkBehaviour_6D3F1C5A_4E92_792A_419D_8CD4DD6FE6FB.source = https://www.linkedin.com/in/dany-rith-06549017a/
+LinkBehaviour_6D3F3C5A_4E92_792A_41D1_CC1C6D2F4C54.source = https://www.pinterest.com/dany_rith/_created/
+LinkBehaviour_6D52BE79_4EAE_79E8_41C0_39613E594B19.source = https://www.pinterest.com/dany_rith/_created/
+LinkBehaviour_6D555E79_4EAE_79E8_41CF_85BA1102ACE2.source = https://www.linkedin.com/in/dany-rith-06549017a/
